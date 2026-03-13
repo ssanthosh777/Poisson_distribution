@@ -1,8 +1,5 @@
-# Fitting Poisson  distribution
-```
-NAME: SANTHOSH S
-REG.NO: 212224100052
-```
+# DATE: 04.02.2026
+# EXP-02: Fitting Poisson  distribution
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
