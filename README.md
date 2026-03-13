@@ -1,4 +1,4 @@
-# DATE: 04.02.2026
+# DATE: 04/02/2026
 # EXP-02: Fitting Poisson  distribution
 # Aim : 
 
